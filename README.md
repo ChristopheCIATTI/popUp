@@ -6,8 +6,8 @@ popUp is userful package, this package offer a cool popup with event.
 
 
 ## How to use : 
-this package include the javascript and html of the style for popup-event,
-is a possible of custom popup-event
+this package include the javascript and html of the style for popUp,
+is a possible of custom popUP
 
 ## Code example  
 ```js

@@ -1,4 +1,4 @@
-![Codacy grade](https://api.codacy.com/project/badge/Grade/39433365f76148d4890cc61f88497538)](https://www.codacy.com/app/ChristopheCIATTI/popUp/?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ChristopheCIATTI/popUp&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2a51fb52ff31429c9b8f963348d2d2f2)](https://www.codacy.com/app/ChristopheCIATTI/popUp?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ChristopheCIATTI/popUp&amp;utm_campaign=Badge_Grade)
 
 # popUp
 

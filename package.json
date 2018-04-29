@@ -1,0 +1,14 @@
+{
+  "name": "popup",
+  "version": "1.0.0",
+  "description": "simple popup",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christophe CIATTI",
+  "license": "MIT"
+}

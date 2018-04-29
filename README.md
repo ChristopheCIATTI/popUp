@@ -1,4 +1,4 @@
-![Codacy grade](https://img.shields.io/codacy/grade/e27821fb6289410b8f58338c7e0bc686.svg?style=for-the-badge)
+![Codacy grade](https://api.codacy.com/project/badge/Grade/39433365f76148d4890cc61f88497538)](https://www.codacy.com/app/ChristopheCIATTI/popUp/?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ChristopheCIATTI/popUp&amp;utm_campaign=Badge_Grade)
 
 # popUp
 

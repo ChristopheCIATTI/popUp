@@ -26,8 +26,8 @@ mocha.describe("popUp", function() {
 
     // describe the test
     mocha.describe("Methods", function () {
-    	// write test here
-    	// check if popUp.popUpDisplay run 
+    	//write test here
+    	//check if popUp.popUpDisplay run 
         mocha.it("Does popUpDisplay create popUp ?", function(){
             popUp.popUpDisplay("foo");
         });

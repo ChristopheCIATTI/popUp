@@ -27,15 +27,14 @@ mocha.describe("popUp", function() {
     // describe the test
     mocha.describe("Methods", function () {
     	// write test here
-    	
-    	//check if popUp.popUpDisplay run 
+    	// check if popUp.popUpDisplay run 
         mocha.it("Does popUpDisplay create popUp ?", function(){
             popUp.popUpDisplay("foo");
         });
 
         // Check is popUpDisplay is a function
         mocha.it("popUpDisplay is a function ?", function(){
-     		chai.assert("function" === typeof popUp.popUpDisplay);
-    	});
+     		chai.assert( "function" === typeof popUp.popUpDisplay);
 	});
+    });
 });

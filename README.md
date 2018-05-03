@@ -1,4 +1,4 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2a51fb52ff31429c9b8f963348d2d2f2)](https://www.codacy.com/app/ChristopheCIATTI/popUp?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ChristopheCIATTI/popUp&amp;utm_campaign=Badge_Grade) [![Build Status](https://travis-ci.org/ChristopheCIATTI/popUp.svg?branch=master)](https://travis-ci.org/ChristopheCIATTI/popUp) ![npm](https://img.shields.io/npm/l/express.svg)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2a51fb52ff31429c9b8f963348d2d2f2)](https://www.codacy.com/app/ChristopheCIATTI/popUp?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ChristopheCIATTI/popUp&amp;utm_campaign=Badge_Grade) [![Build Status](https://travis-ci.org/ChristopheCIATTI/popUp.svg?branch=master)](https://travis-ci.org/ChristopheCIATTI/popUp)  ![npm](https://img.shields.io/npm/l/express.svg)
 
 # popUp
 

@@ -17,7 +17,7 @@ window.onload = function() {
 ```
 ## effect
 
-Your welcome message in a popup-event, this popup event-translate and reacted for press button
+Your welcome message in a popup-event, this popup event-translate and reacted for press button 
 
 ## Result
 

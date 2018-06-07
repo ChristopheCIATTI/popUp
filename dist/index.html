@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>ES6 PopUp</title>
+		<script type="text/javascript" src="./lib/index.js"></script>
+		<script type="text/javascript">
+			 window.onload = function() {
+					popUp.popUpDisplay("My message");
+				};
+		</script>
+		<style>
+			/* Style of the popup */
+			#PopUpStyle {
+				border-radius: 0.5em;
+				padding: 1em;
+				text-align: center;
+				background: #007fff;
+				box-shadow : 0 0 10px #000000;
+				position: fixed;
+				width: 20em;
+				top: 25%;
+				left: 80%;
+				letter-spacing: .1em;
+				transition:left 1s, opacity 1s;
+				text-shadow: 0 0 1px #000000;
+			}
+			#PopUpStyle:hover {
+				background: lightskyblue;
+				transform: scale(1.02);
+			}
+			#PopUpStyle a {
+				float: right;
+				color: #C60800;
+				text-shadow: 0 0 2px #000000;
+				margin-bottom: 0.5em;
+			}
+			#PopUpStyle a:hover {
+				transform: scale(2.1);
+				color: red;
+			}
+			#PopUpStyle a:hover ~ body {
+				color: yellow;
+			}
+			#PopUpStyle button {
+				text-align: center;
+				box-shadow: 0 0 10px #000000;
+				background: #007fff;
+				border: solid 2px darkred;
+				display: inline-block;
+				padding: .5em;
+				margin: 1.5em;
+				border-radius: 10em;
+				letter-spacing: 1em;
+				text-shadow: 0 0 1px #000000;
+				transform: scale(1.1);
+			}
+			#PopUpStyle button:hover {
+				background: ivory !important;
+				box-shadow: 0 0 1px #000000;
+			}
+			#PopUpStyle p {
+				clear: both;
+			} 
+		</style>
+	</head>
+<body>
+	<div></div>
+</body>
+</html>

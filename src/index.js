@@ -97,7 +97,7 @@
 	
 	return (() => {
 		let self = {};
-		self.init = () => {
+		self.init = (window) => {
 			if(!window || !window.document) {
 				throw new Error("popUp requires a window with a document");
 			}

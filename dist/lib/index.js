@@ -100,7 +100,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
 
 	return function () {
 		var self = {};
-		self.init = function () {
+		self.init = function (window) {
 			if (!window || !window.document) {
 				throw new Error("popUp requires a window with a document");
 			}

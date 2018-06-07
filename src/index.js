@@ -61,9 +61,9 @@
 		};
 
 		buttonConfirm.onclick = () => {
-			buttonConfirm.onclick = null;
-			let parent = buttonConfirm.parentNode;
-			buttonConfirm.style.background ="green";
+		buttonConfirm.onclick = null;
+		let parent = buttonConfirm.parentNode;
+		buttonConfirm.style.background ="green";
 	        buttonCancel.style.background ="green";
 	        parent.style.background ="green";
 	        parent.style.opacity = 0;
@@ -73,9 +73,9 @@
 		};
 
 		buttonCancel.onclick = () => {
-			var parent = buttonCancel.parentNode;
-			parent.style.left = "100%";
-			buttonCancel.style.background ="yellow";
+		var parent = buttonCancel.parentNode;
+		parent.style.left = "100%";
+		buttonCancel.style.background ="yellow";
 	        buttonConfirm.style.background ="yellow";
 	        parent.style.background ="yellow";
 	        parent.style.opacity = 0;

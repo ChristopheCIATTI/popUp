@@ -1,7 +1,7 @@
 // File of test javascript with mocha & chai
 
 // require the module which you test
-var popUp = require("../lib/popUp/index.js");
+var popUp = require("../dist/lib/index.js");
 
 // require the test library javascript
 var mocha = require("mocha");
@@ -19,6 +19,7 @@ popUp.init(window);
 // below the tests
 // describe and check if poUp.js is a module
 // to check use chai.assert and check if popUp is a object
+
 mocha.describe("popUp", function() {
     mocha.it("popUp.js is a module ?", function() {
         chai.assert("object" === typeof popUp);
@@ -38,3 +39,4 @@ mocha.describe("popUp", function() {
 	});
     });
 });
+
